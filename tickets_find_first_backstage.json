@@ -1,0 +1,42 @@
+[
+	{
+	"price":105.20,
+	"seat": "A5",
+	"section": 1, 
+	"origin": "SCALPED",
+	"date":"03/28/2025",
+	"includes_backstage_pass": false
+	},
+	{
+	"price":120.50,
+	"seat": "A5",
+	"section": 3, 
+	"origin": "SCALPED",
+	"date":"03/28/2025",
+	"includes_backstage_pass": true
+	},
+	{
+	"price":99.99,
+	"seat": "B23",
+	"section": 2, 
+	"origin": "SCALPED",
+	"date":"03/28/2025",
+	"includes_backstage_pass": false
+	},
+	{
+	"price":130.77,
+	"seat": "B5",
+	"section": 3, 
+	"origin": "SCALPED",
+	"date":"03/28/2025",
+	"includes_backstage_pass": true
+	},
+	{
+	"price":99.99,
+	"seat": "B33",
+	"section": 2, 
+	"origin": "ORIGINAL",
+	"date":"03/28/2025",
+	"includes_backstage_pass": true
+	}
+]

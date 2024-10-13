@@ -1,0 +1,10 @@
+[
+	{
+		"price":120.50,
+		"seat": "A5",
+		"section": 3, 
+		"origin": "SCALPED",
+		"date":"03/28/2025",
+		"includes_backstage_pass": true
+	}
+]

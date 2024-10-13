@@ -1,0 +1,10 @@
+[
+	{
+	"price":99.99,
+	"seat": "B33",
+	"section": 2, 
+	"origin": "ORIGINAL",
+	"date":"03/28/2025",
+	"includes_backstage_pass": true
+	}
+]
